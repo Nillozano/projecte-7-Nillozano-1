@@ -38,7 +38,7 @@ Necessiten una renovació a fons de la seva infraestructura tecnològica i per a
 
 - https://pyming.com/ca_ES
 
-Totes tres són **microempreses (1–9 treballadors)**, típiques del sector informàtic local.
+Totes tres són **microempreses (1-9 treballadors)**, típiques del sector informàtic local.
 
 ---
 
