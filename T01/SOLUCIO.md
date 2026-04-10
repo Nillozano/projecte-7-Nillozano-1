@@ -124,26 +124,27 @@ DT --> R
 
 Com que som només dues persones, la nostra estratègia ha de jugar amb els nostres punts forts naturals.
 
-### 1) Proximitat i tracte directe
+### 1) Especialització en PIMEs
+- No competim amb grans consultores.
+- Ens centrem en negocis petits: botigues, restaurants, oficines i autònoms.
+- **Valor afegit:** solucions adaptades i assequibles.
+### 2) Proximitat i tracte directe
 - Les empreses petites del Maresme valoren parlar sempre amb la mateixa persona.
 - No hi ha centraletes, ni bots, ni derivacions a altres departaments.
 - Aquests punts ens diferencien de les empreses més grans.
 - **Valor afegit:** confiança i relació humana.
 
-### 2) Resposta ràpida (24 h)
-- Les microempreses locals sovint tenen problemes urgents: TPV, impressora o xarxa.
+### 3) Resposta ràpida (24 h)
+- Les empreses locals sovint tenen problemes urgents: TPV, impressora o xarxa.
 - Complir una resposta en 24 h ens posiciona per davant de la competència.
 - **Valor afegit:** seguretat per al client.
 
-### 3) Preus clars i transparents
+### 4) Preus clars i transparents
 - Evitem sorpreses en la factura.
 - Oferim manteniments simples i preus tancats.
 - **Valor afegit:** tranquil·litat i control de costos.
 
-### 4) Especialització en PIMEs
-- No competim amb grans consultores.
-- Ens centrem en negocis petits: botigues, restaurants, oficines i autònoms.
-- **Valor afegit:** solucions adaptades i assequibles.
+
 
 ### Proposta de valor final
 
@@ -194,4 +195,4 @@ Allibera el tècnic principal de tasques repetitives i assegura una bona gestió
 
 ### Conclusió
 
-L’estructura i estratègia definides permeten oferir un servei professional, eficient i adaptat al volum d’una microempresa, assegurant qualitat des del primer dia i possibilitat de creixement sostenible.
+L’estructura i estratègia definides permeten oferir un servei professional, eficient i adaptat al volum d’una empresa, assegurant qualitat des del primer dia i possibilitat de creixement sostenible.
