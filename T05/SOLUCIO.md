@@ -18,5 +18,5 @@
 
 [Enllaç al Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)](https://drive.google.com/file/d/19CZwbQ-xmErgV4kf8dqITPLZkvqA7xBT/view?usp=sharing)
 
-[Anar a l'enunciat](../Tasca05/README.md)      
+[Anar a l'enunciat](../T05/README.md)      
 [Anar a la pàgina inicial](../README.md)
