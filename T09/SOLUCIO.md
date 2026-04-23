@@ -344,7 +344,7 @@ Utilitzant **PlantUML (UMLTree)**, el diagrama ha de mostrar:
 
 👉 **No és només un dibuix:** ha de reflectir decisions reals.
 
-![](img/01.png)
+![](img/1.png)
 
 Script:                                       
 @startgantt                                        
