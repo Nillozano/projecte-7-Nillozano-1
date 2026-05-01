@@ -50,10 +50,13 @@ T08 (Tria de la web definitiva) ja que és triar la web definitiva, decidir i ve
 
 # Fase 2: Estimació d’esforç amb criteri (ús d’IA guiat)
 
-Heu d’estimar la durada de cada tasca en hores, però no de forma arbitrària.                 
-Per cada tasca, haureu d’analitzar com a mínim aquests factors:                           
-Factors obligatoris d’estimació                                  
-Per cada tasca, tingueu en compte:                                      
+Heu d’estimar la durada de cada tasca en hores, però no de forma arbitrària.
+
+Per cada tasca, haureu d’analitzar com a mínim aquests factors:
+
+Factors obligatoris d’estimació
+
+Per cada tasca, tingueu en compte:
 
 - Temps de comprensió (lectura, anàlisi)
 - Temps de recerca (si cal)
@@ -66,9 +69,7 @@ Per cada tasca, tingueu en compte:
 
 # Ús d’IA (obligatori i guiat)
 
-Heu d’utilitzar IA com a assistent, però amb criteri.                                   
-Perfecte, ho ajusto 👍                                         
- Refaig la **Fase 2 (T01–T08)** amb **menos hores per tasca**, assumint **pocs errors**, bon domini de les eines i un ritme de treball més àgil (nivell SMX correcte).                     
+Heu d’utilitzar IA com a assistent, però amb criteri.
 
 #### **T01 – Coneixent la competència i el sector**
 
@@ -346,18 +347,31 @@ Utilitzant **PlantUML (UMLTree)**, el diagrama ha de mostrar:
 
 ![](img/1.png)
 
-Script:                                       
-@startgantt                                        
-Project starts the 2026-04-10                                           
-[T01 - Competencia y sector (los dosh) ] lasts 2 days                                               
-[T02 - Propuesta web corporativa (principalment l'Anthony)] lasts 3 days                                            
-[T03 - Servidor de ficheros (principalment en Nil)] starts at 2026-04-14 and lasts 3 days                                         
-[T04 - Servidor de impresión (Nil)] starts at 2026-04-19 and lasts 1 day                                          
-[T05 - Vídeo LOPD (los dosh)] starts at 2026-04-19 and lasts 2 days                                         
-[T06 - Web legal RGPD (principalment l'Anthony)] starts at 2026-04-20 and lasts 2 days                                       
-[T07 - Correo en la nube (los dosh)] starts at 2026-04-25 and lasts 2 days                                       
-[T08 - Elección web definitiva (los dosh)] starts at 2026-04-27 and lasts 1 day                                        
-@endgantt                             
+Script:
+
+```
+@startgantt
+                                   
+Project starts the 2026-04-10
+                                       
+[T01 - Competencia y sector (los dosh) ] lasts 2 days
+                                
+[T02 - Propuesta web corporativa (principalment l'Anthony)] lasts 3 days
+                                        
+[T03 - Servidor de ficheros (principalment en Nil)] starts at 2026-04-14 and lasts 3 days
+                                        
+[T04 - Servidor de impresión (Nil)] starts at 2026-04-19 and lasts 1 day
+                                 
+[T05 - Vídeo LOPD (los dosh)] starts at 2026-04-19 and lasts 2 days
+                                 
+[T06 - Web legal RGPD (principalment l'Anthony)] starts at 2026-04-20 and lasts 2 days
+               
+[T07 - Correo en la nube (los dosh)] starts at 2026-04-25 and lasts 2 days
+
+[T08 - Elección web definitiva (los dosh)] starts at 2026-04-27 and lasts 1 day
+                                    
+@endgantt
+```
 
 ### **Fase 5: Pla de contingència (pensament professional)**
 
